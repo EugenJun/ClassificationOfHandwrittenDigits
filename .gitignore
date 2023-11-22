@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Classification of Handwritten Digits/*
+!/Classification of Handwritten Digits/task/
+/Classification of Handwritten Digits/task/*
+!/Classification of Handwritten Digits/task/analysis.py
